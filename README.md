@@ -25,7 +25,7 @@ To get started with these projects, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone git@github.com:amnaamjid/Python_Projects.git
+git clone [git@github.com:amnaamjid/Python_Projects.git](https://github.com/amnaamjid/Python_Projects.git)
 
 2. Navigate to the project's folder you want to work on:
 
@@ -39,7 +39,7 @@ If you have ideas for additional basic projects or improvements to existing ones
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE(LICENSE) file for details.
 
 Happy coding!
 
