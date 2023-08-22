@@ -14,6 +14,7 @@ Welcome to my repository of Python basic projects! In this collection, you'll fi
 2. **Language Translator:** Build a command-line language translator that can translate text from one language to another using the Trankit library.
 
 3. **Interactive Quiz Game:** Craft an interactive quiz game with questions and multiple-choice answers.
+
 More will be added soon...
 
 Each project has its own folder with a README providing details on how to run and use the project.
