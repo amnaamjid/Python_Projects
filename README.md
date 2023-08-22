@@ -25,7 +25,7 @@ To get started with these projects, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/amnaamjid/Python_Projects/Basic.git
+git clone git@github.com:amnaamjid/Python_Projects.git
 
 2. Navigate to the project's folder you want to work on:
 
