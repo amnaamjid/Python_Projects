@@ -52,6 +52,13 @@ def clear():
 image_icon = PhotoImage(file = "translator.png")
 root.iconphoto(False, image_icon )
 
+arrow_image = PhotoImage(file = "arrow.png")
+image_label= Label(root, image=arrow_image,width= 150)
+image_label.place(x=200,y=50)
+
+#arrow
+
+
 root.minsize(592, 370)
 root.maxsize(592, 370)
 
